@@ -1,2 +1,1 @@
-# CBT-CIP
-A collection of beginner-friendly Python mini projects including a payment receipt generator, rock-paper-scissors game, and contact management system. Great for learning basic Python logic, file handling, and user interaction in the terminal.
+🚀 A fun collection of beginner-friendly Python mini projects — featuring a payment receipt generator 🧾, a rock-paper-scissors game 🎮, and a contact management system 📇. Perfect for mastering core Python skills like file handling, user input, and logic flow — all right in the terminal!
